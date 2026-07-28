@@ -1,4 +1,4 @@
 # London-To-Nepal--1st-page
-This is the first page 
+This is the first page.
 <br>
-Author-ASHISH Ale
+Author-Ashish  Ale
